@@ -219,7 +219,7 @@ transition: 0.2s;
   align-items: center;
   justify-items: center;
   padding: 0.625rem;
-  font-size: 0.625rem;
+  color: rgb(167, 198, 73);
   margin: 20px;
   border-radius: 0.9375rem;
 }
@@ -231,7 +231,8 @@ transition: 0.2s;
 .card:hover {
   position: relative;
   padding: 0.625rem;
-  background-color: rgb(15, 46, 89);
+  background-color: rgb(6, 88, 126);
+  color: red;
   transition: 0.5s;
 }
 
